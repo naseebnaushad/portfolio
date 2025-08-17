@@ -58,7 +58,7 @@ class MyApp extends StatelessWidget {
               ),
               SizedBox(height: 10),
               Text(
-                'Code Monkey \n'
+                'Web programmer \n'
                 'Developer \n'
                 'Open Source Contributor',
                 style: GoogleFonts.poppins(
