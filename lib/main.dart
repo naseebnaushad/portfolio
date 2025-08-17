@@ -60,7 +60,7 @@ class MyApp extends StatelessWidget {
               Text(
                 'Web programmer \n'
                 'Developer \n'
-                'Open Source Contributor',
+                'Open Source lover',
                 style: GoogleFonts.poppins(
                   fontWeight: FontWeight.w600,
                   fontSize: 20,
