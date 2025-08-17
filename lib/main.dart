@@ -58,8 +58,8 @@ class MyApp extends StatelessWidget {
               ),
               SizedBox(height: 10),
               Text(
-                'Web programmer \n'
                 'Developer \n'
+                'Flutter Enthusiast \n'
                 'Open Source lover',
                 style: GoogleFonts.poppins(
                   fontWeight: FontWeight.w600,
