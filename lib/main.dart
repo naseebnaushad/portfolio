@@ -40,12 +40,12 @@ class MyApp extends StatelessWidget {
                 padding: const EdgeInsets.all(20.0),
                 child: CircleAvatar(
                   radius: 80,
-                  // backgroundImage: AssetImage("assets/profile/profile.jpeg"),
-                  // foregroundImage: AssetImage('assets/profile/pro.png'),
-                  // child: Text(
-                  //   'test text',
-                  //   style: TextStyle(fontSize: 12, color: Colors.yellow),
-                  // ),
+                  backgroundImage: AssetImage("assets/profile/profile.jpeg"),
+                  foregroundImage: AssetImage('assets/profile/pro.png'),
+                  child: Text(
+                    'test text',
+                    style: TextStyle(fontSize: 12, color: Colors.yellow),
+                  ),
                 ),
               ),
               SizedBox(height: 30),
