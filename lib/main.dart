@@ -42,10 +42,10 @@ class MyApp extends StatelessWidget {
                   radius: 80,
                   backgroundImage: AssetImage("assets/profile/profile.jpeg"),
                   // foregroundImage: AssetImage('assets/profile/pro.png'),
-                  child: Text(
-                    'test text',
-                    style: TextStyle(fontSize: 12, color: Colors.yellow),
-                  ),
+                  // child: Text(
+                  //   'test text',
+                  //   style: TextStyle(fontSize: 12, color: Colors.yellow),
+                  // ),
                 ),
               ),
               SizedBox(height: 30),
