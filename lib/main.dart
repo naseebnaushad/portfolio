@@ -33,9 +33,10 @@ class MyApp extends StatelessWidget {
           width: double.infinity,
           height: double.infinity,
           child: Column(
-            mainAxisAlignment: MainAxisAlignment.center,
+            mainAxisAlignment: MainAxisAlignment.start,
             crossAxisAlignment: CrossAxisAlignment.center,
             children: [
+              SizedBox(height: 50,),
               Padding(
                 padding: const EdgeInsets.all(20.0),
                 child: CircleAvatar(
@@ -58,6 +59,7 @@ class MyApp extends StatelessWidget {
               ),
               SizedBox(height: 10),
               Text(
+                textDirection: TextDirection.rtl,
                 'Developer \n'
                 'Flutter enthusiast \n'
                 'Open Source enthusiast',
