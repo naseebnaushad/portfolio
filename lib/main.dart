@@ -58,7 +58,7 @@ class MyApp extends StatelessWidget {
                   ),
                   SizedBox(height: 30),
                   Text(
-                    'I\'m Naseeb',
+                    'I\'m Nas',
                     style: GoogleFonts.poppins(
                       fontWeight: FontWeight.w600,
                       fontSize: 30,
