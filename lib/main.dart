@@ -67,7 +67,7 @@ class MyApp extends StatelessWidget {
                   SizedBox(height: 10),
                   Text(
                     textDirection: TextDirection.rtl,
-                    'Developer \n'
+                    'Code Monkey \n'
                     'Flutter enthusiast \n'
                     'Open Source enthusiast',
                     style: GoogleFonts.poppins(
