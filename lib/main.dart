@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
           title: Padding(
             padding: const EdgeInsets.only(bottom: 15),
             child: Text(
-              'Pro',
+              'My Profile',
               style: GoogleFonts.playfair(
                 fontWeight: FontWeight.w600,
                 fontSize: 35,
